@@ -1,6 +1,6 @@
 # Mocking MQTT with Playwright
 
-This is a simple example of how to mock MQTT messages using Playwright. See the full blog post: <https://camillovisini.com/coding/mocking-mqtt-with-playwright>.
+This is a simple example of how to mock MQTT messages using Playwright. See the full blog post: <https://camillovisini.com/coding/mocking-mqtt-with-playwright>
 
 ## How to run
 
